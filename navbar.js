@@ -7,13 +7,13 @@ var html = '<nav class="navbar navbar-dark bg-dark navbar-expand-sm navbar-light
                 <div class="collapse navbar-collapse" id="navbarNav">\
                     <ul class="navbar-nav">\
                         <li class="nav-item">\
-                            <a class="nav-link btn btn-secondary mr-1 ml-1" href="index.html">Home</a>\
+                            <a class="nav-link btn btn-secondary mr-1 ml-1" href="./index.html">Home</a>\
                         </li>\
                         <li class="nav-item">\
-                            <a class="nav-link btn btn-secondary mr-1 ml-1" href="author_navigation.html">Authors</a>\
+                            <a class="nav-link btn btn-secondary mr-1 ml-1" href="./author_navigation.html">Authors</a>\
                         </li>\
                         <li class="nav-item">\
-                            <a class="nav-link btn btn-secondary mr-1 ml-1" href="topic_navigation.html">Topics</a>\
+                            <a class="nav-link btn btn-secondary mr-1 ml-1" href="./topic_navigation.html">Topics</a>\
                         </li>\
                     </ul>\
                 </div>\
